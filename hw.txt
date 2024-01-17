@@ -1,0 +1,55 @@
+﻿Сколько часов в неделю ты готов выделять на домашку? подумай и напиши мне, я выставлю примерные дедлайны на задачи. 
+Начни с секции Python, около 30-60мин в день, секция алгоритмы 1 задача в день, гит по 10мин достаточно, секция математика тоже около 30-60мин
+
+
+Python(получить 3 сертификата):
+1)https://stepik.org/course/63085/promo дедлайн 2 месяца
+2)https://www.kaggle.com/learn/intro-to-programming 
+3)https://karpov.courses/pythonzero
+
+
+Алгоритмы (выполнить)
+1) 1 задача в день, выходные отдых https://codeforces.com/problemset?order=BY_RATING_ASC&tags=math
+начни с https://codeforces.com/problemset/problem/4/A
+Чужие решения можно посмотреть здесь https://codeforces.com/problemset/status/4/problem/A 
+сохраняешь сюда решение Algorithms\codeforces.ipynb
+ОСНОВНАЯ ЦЕЛЬ - это читать решения других людей, минимум 3шт. В начале списка, в конце и в середине.
+2)https://leetcode.com/problems/palindrome-number/ 
+сохраняешь сюда решение Algorithms\leetcode.ipynb
+ОСНОВНАЯ ЦЕЛЬ - это читать решения других людей, минимум 3шт. В начале списка, в конце и в середине.
+3)https://ods.ai/tracks/open-ml-course (попробуй пройти)
+
+
+git:
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team         
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  
+3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme
+4)https://t.me/c/1937296927/3602/5714 (начать делать)
+
+Алгоритмы Теория:
+1)скачать
+https://t.me/c/1937296927/766/8001 выписать 55стр до 63
+
+Computer Science:
+1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 
+2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  
+
+Data analyst / Data Scientist 
+
+Math:
+1) пройти все разделы которые непонятны https://mathter.pro/pesochnica/index.html (фото конспекта скинуть в папку math/school_math/, в формате pdf)
+2) https://t.me/c/1937296927/888/5238 Пройти весь марафон, только EASY (фото конспекта скинуть в папку math\school_math\Marathon, в формате pdf) ищешь по хэштегу с #day1 по #day20
+3) сделать всё до 65стр https://t.me/c/1937296927/888/8313 (фото конспекта скинуть в папку math/anal_geom/, в формате pdf)
+4) https://lab.karpov.courses/learning/253/module/2697/ (секция линал), ознакомиться
+                                                                        
+дискретка (математика для прогеров, скачать):
+1)https://t.me/ruslansenatorov/43
+
+System design (на перспективу, скачать):
+1) https://zlib.pub/book/-7p8mhg8mcl70
+
+Если что - пиши в чат, всегда поможем, добро пожаловать в команду SENATOROV TEAM!
+
+
+
+
